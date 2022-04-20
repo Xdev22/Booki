@@ -1,7 +1,7 @@
 # Booki
 
-Projet 1 OpenClassRooms.
-Ce projet est le premier réalisé de la formation.
+Projet 2 OpenClassRooms.
+Ce projet est le premier projet à coder réalisé de la formation.
 A l'aide d'une maquette réalisé par le designer de l'entrepise, j'ai intégré la maquette en HTML et CSS uniquement comme demandé.
 
 Booki une petite entreprise proposant un outil de planification de vacances ! Son site permet aux usagers de trouver des hébergements et
